@@ -1,0 +1,16 @@
+{
+  "name": "scs-management-system",
+  "version": "1.0.0",
+  "description": "Professional warehouse and labeling management system for SCS",
+  "scripts": {
+    "build": "cd frontend && npm run build",
+    "start": "cd backend && python server.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Scontracts224/scs-management-system.git"
+  },
+  "keywords": ["warehouse", "labeling", "contract", "services"],
+  "author": "Specialized Contract Services",
+  "license": "MIT"
+}
